@@ -1,0 +1,11 @@
+.l-footer {
+  background: #ffffff;
+  padding: 35px 38px 70px 15px;
+  border-top: solid 10px #ffb500;
+}
+
+@media (min-width: 768px) {
+  .l-footer {
+    padding: 35px 165px 110px 165px;
+  }
+}
